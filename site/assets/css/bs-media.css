@@ -1,0 +1,22 @@
+@media screen and (max-width: 690px) {
+	.single-product__wrap {
+		display: block;
+	}
+	.single-product .banner-update-link {
+		display: table;
+		width: auto;
+	}
+}
+
+@media screen and (max-width: 510px) {
+	.single-product .banner-wrap {
+		float: none;
+	}
+}
+@media screen and (max-width: 400px) {
+	.tabs__header {
+		display: block;
+	}
+}
+
+
